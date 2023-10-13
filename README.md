@@ -4,7 +4,7 @@ Dashboard 1:https://public.tableau.com/app/profile/rajesh.prabhu.s/viz/Dashboard
 
 dashboard 2:https://public.tableau.com/app/profile/rajesh.prabhu.s/viz/Dashboard2_16965181959630/Dashboard2?publish=yes
 
-Dashboard 3:
+Dashboard 3:https://public.tableau.com/views/NM-PROJECT2/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 Story 1:https://public.tableau.com/app/profile/rajesh.prabhu.s/viz/Story1_16966532016090/Story1?publish=yes
 
