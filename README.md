@@ -10,5 +10,4 @@ Story 1:https://public.tableau.com/app/profile/rajesh.prabhu.s/viz/Story1_169665
 
 story 2:https://public.tableau.com/app/profile/rajesh.prabhu.s/viz/Story2_16966535194560/Story2?publish=yes
 
-
-video Demonstration Link:
+video Demonstration Link:https://drive.google.com/file/d/1xwIHM9iCys0qLP4sx6nY5gP9Pwn_jCYh/view?usp=drive_link
